@@ -3,7 +3,7 @@
 
 
 int main(int argc, char *argv[]){
-
+{
     //printf("arc: %d\n",argc);
 
     if(argc <= 1){
